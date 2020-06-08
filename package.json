@@ -1,0 +1,14 @@
+{
+  "name": "stockbot",
+  "version": "1.0.0",
+  "description": "Provides stock ticker information. Use ![TICKER_SYMBOL]",
+  "main": "bot.js",
+  "author": "Vanguard23",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "dotenv": "^8.2.0",
+    "google-finance": "^0.1.12",
+    "unirest": "^0.6.0",
+    "winston": "^3.2.1"
+  }
+}
